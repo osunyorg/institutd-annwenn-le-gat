@@ -15,18 +15,8 @@ items:
   target: "/projets/"
   kind: page
   new_tab: false
-  children:
-  - title: Portfolio
-    slug: portfolio
-    target: "/projets/portfolio/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/projets/portfolio"
-    file: content/fr/pages/projets/portfolio/_index.html
-  descendants_targets:
-  - "/projets/portfolio/"
+  children: []
+  descendants_targets: []
   path: "/projects"
   file: content/fr/projects/_index.html
 - title: Personnes
